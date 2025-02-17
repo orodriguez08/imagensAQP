@@ -1,0 +1,4 @@
+!pip uninstall -y torch torchvision torchaudio
+
+!pip install torchvision==0.15.2+cu118 --index-url https://download.pytorch.org/whl/cu118
+
